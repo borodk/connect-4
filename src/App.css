@@ -1,10 +1,9 @@
-.App {
-  text-align: center;
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.App {
+  text-align: center;
 }
 
 .App-header {
