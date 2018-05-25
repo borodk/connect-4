@@ -1,1 +1,1 @@
-![screenshot](https://raw.githubusercontent.com/borodk/connect4/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/borodk/connect-4/master/screenshot.png)
